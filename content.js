@@ -4,6 +4,7 @@ const portfolioContent = {
       "title": "Duolingo Practice Together",
       "meta": "Dec 2025 \u00b7 Product case study",
       "theme": "purple",
+"caseStudy": "https://docs.google.com/presentation/d/1Ko5WsYky2M4pAcAIHXlx_NhHlSgmKhRP1iks049y4TQ/edit?usp=sharing",
       "image": "assets/duolingo-wide.jpg",
       "description": "What if keeping a Friends Streak meant having a real conversation? I designed a feature where friends practice a language together through guided roleplay, with gentle hints as you chat or feedback saved for the end, plus a family chat option. I defined the idea, designed the flows, and built a clickable prototype to make it tangible.",
       "tags": [
@@ -62,3 +63,4 @@ const portfolioContent = {
     }
   ]
 };
+
